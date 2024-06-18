@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/authors/5a6e079d1d77",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Vinicius",
+    "email": "vni217@gmail.com"
+  }
+}
